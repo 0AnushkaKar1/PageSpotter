@@ -9,4 +9,5 @@
 PageSpotter is the perfect tool for anyone who wants to keep their favorite web pages organized and easily accessible.
 
 As of now, this is Version 1.0  so, it may not have a bunch of features.....
-But soon it will be updated and anyone can download it as a Chrome extension from the Chrome Webstore
+But soon it will be updated and anyone can download it as a Chrome extension from the Chrome Webstore.
+
