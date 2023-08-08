@@ -7,7 +7,15 @@
 - template strings used because it looks much better and easier to parse.
 - Things were stored in localstorage so that we could work across page refresh. 
 - JSON object was used to store this data 
-- Manifest.json file was used to configure our application  
+- Manifest.json file was used to configure our application
+- Contributed in developing Resu.me, an innovative online resume builder app, currently in the development phase
+- Resu.me aims to assist students in creating professional resumes effortlessly.
+- Utilizes a step-by-step form to guide users through the resume-building process, eliminating confusion about required data.
+- Provides helpful hints for each input field, ensuring clarity and ease-of-use.
+- After you are done download the pdf of your resume.
+- Generates resumes that can be hosted as online pages, showcasing professional achievements.
+- Supports downloading resumes in PDF format for compatibility and easy sharing.
+- Committed to open-source development, with plans to release the project to foster collaboration and continuous
 
 PageSpotter is the perfect tool for anyone who wants to keep their favorite web pages organized and easily accessible.
 
